@@ -1,0 +1,10 @@
+version: 1
+service:
+  name: testing empty
+  lifecycle: beta
+  tier: tier_2
+  product: Procurement
+  owner: inventory_team
+  language: Ruby
+  framework: Rails
+  description: Manages Samples for our inventory service.
